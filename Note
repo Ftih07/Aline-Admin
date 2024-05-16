@@ -1,0 +1,4 @@
+How to apdet database in neon db prisma
+
+1. npx prisma generate
+2. npx prisma db push
